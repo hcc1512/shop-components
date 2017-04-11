@@ -4761,6 +4761,10 @@ table@^3.7.8:
     slice-ansi "0.0.4"
     string-width "^2.0.0"
 
+tachyons@^4.7.0:
+  version "4.7.0"
+  resolved "https://registry.npmjs.org/tachyons/-/tachyons-4.7.0.tgz#228eed0badca01cf793ef7cc6103a60c8f8b0f3e"
+
 tapable@^0.1.8, tapable@~0.1.8:
   version "0.1.10"
   resolved "https://registry.npmjs.org/tapable/-/tapable-0.1.10.tgz#29c35707c2b70e50d07482b5d202e8ed446dafd4"
